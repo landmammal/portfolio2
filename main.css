@@ -41,6 +41,15 @@ p {
     border: 40px;
     text-align: center;
     font-size: 14px;
+    margin-top: 50px;
+}
+
+
+.grey {
+    height: 3px;
+    background-color: #bfbfbf;
+    border: none;
+    width: 50px;
 }
 
 
